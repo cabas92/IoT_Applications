@@ -8,17 +8,17 @@ https://www.iotshaman.com/blog/content/how-to-install-rabbitmq-on-a-raspberry-pi
 
   ### Erlang/OTP
 
-    It's necessary for the operation of rabbitmq
+It's necessary for the operation of rabbitmq
 
-    ```
-    sudo apt-get install -y erlang logrotate
-    ```
-    or
-    ```
-    sudo apt-get install erlang-nox
-    ```
+```
+sudo apt-get install -y erlang logrotate
+```
+or
+```
+sudo apt-get install erlang-nox
+```
 
-
+W
  more information:
  
  https://www.rabbitmq.com/install-debian.html
