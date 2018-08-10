@@ -59,8 +59,8 @@ $ sudo rabbitmqctl add_user [newuser] [password]
 $ sudo rabbitmqctl set_user_tags [newuser] administrator
 $ sudo rabbitmqctl set_permissions -p / [newuser] ".*" ".*" ".*"
 ```
-_Restart the system_ for enable the http interface
-Open the port _15672_ in your IP with a web explorer, an adddress example: 192.168.0.12:15672
+__Restart the system__ for enable the http interface
+Open the port **15672** in your IP with a web explorer, an adddress example: 192.168.0.12:15672
 This is the web page for the configuration and monitoring of server RabbitMQ in your localhost, logging with your [newuser] and [password] previously defined.
 
 more information:
