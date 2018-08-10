@@ -64,7 +64,7 @@ Open the port **15672** in your IP with a web explorer, an adddress example: 192
 This is the web page for the configuration and monitoring of server RabbitMQ in your localhost, logging with your [newuser] and [password] previously defined.
 ### Aditional Setup
   - Delete guest user or change his password
-  - Add new user for only puclish information
+  - Add new user for only publish information, read or configure according to the python application
 
 more information:
 https://www.rabbitmq.com/rabbitmqctl.8.html
