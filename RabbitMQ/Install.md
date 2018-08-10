@@ -68,6 +68,7 @@ This is the web page for the configuration and monitoring of server RabbitMQ in 
 
 more information:
 https://www.rabbitmq.com/rabbitmqctl.8.html
+https://www.rabbitmq.com/access-control.html
 
 ## 5.) Check and start the examples
 
