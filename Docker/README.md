@@ -1,13 +1,13 @@
-##Tutorials of Docker
+## Tutorials of Docker
 
 more information:
 https://docs.docker.com/get-started/part4/
 
-##Extra tutorial
+## Extra tutorial
 
 https://github.com/mikegcoleman/docker101-linux
 
-##Instrucciones de instalación docker para la raspberry 
+## Instrucciones de instalación docker para la raspberry 
 
 Instalar Docker en la Raspberry
 
