@@ -9,18 +9,18 @@ https://github.com/mikegcoleman/docker101-linux
 
 ## Instrucciones de instalación docker para la raspberry 
 
-Instalar Docker en la Raspberry
+- Instalar Docker en la Raspberry
 
 https://docs.docker.com/install/linux/docker-ce/debian/#install-using-the-convenience-script
 
 usar sudo su
 
-Configurar proxy del Docker
+- Configurar proxy del Docker
 
 https://docs.docker.com/config/daemon/systemd/#httphttps-proxy
 
 
-Ejecutamos el Hello World
+- Ejecutamos el Hello World
 
 https://docs.docker.com/install/linux/linux-postinstall/
 
